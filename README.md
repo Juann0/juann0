@@ -9,7 +9,7 @@
 - ♥️ Escribo código por pasión y amor.
 - 👌Me gustaría ser docente y enseñar todo lo que sé.
 
-> Sé disciplinado y te irá bien.
+> Sé disciplinado y triunfarás.
 
 <!--
 **Juann0/juann0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
