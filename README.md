@@ -1,8 +1,15 @@
-## Hola mi nombre es Juan 👋
+## Hola mi nombre es Juan 👋 Soy Ingeniero de Sistemas 💻
 
-[Instagram]: (https://www.instagram.com/Junosoftware/)
+#### Me puedes seguir aquí ⬇, soy nuevo en redes 
 
-> La disciplina siempre será la clave del éxito.
+- JunoSoftware 🠪 https://www.instagram.com/Junosoftware/
+- Mi instagram personal 🠪 https://www.instagram.com/valenciajuann/
+- 💻 Me gusta la tecnología
+- 🏝️ Me gustaría algún día disfrutar de la playa.
+- ♥️ Escribo código por pasión y amor.
+- 👌Me gustaría ser docente y enseñar todo lo que sé.
+
+> Sé disciplinado y te irá bien.
 
 <!--
 **Juann0/juann0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
