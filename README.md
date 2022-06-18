@@ -1,6 +1,6 @@
 ## Hola mi nombre es Juan 👋
 
-[Instagram]: (https://www.instagram.com/Junosoftware/)
+[Instagram]: https://www.instagram.com/Junosoftware/
 
 > La disciplina siempre será la clave del éxito.
 
