@@ -2,8 +2,6 @@
 
 #### Me puedes seguir aquí ⬇, soy nuevo en redes 
 
-- JunoSoftware 🠪 https://www.instagram.com/Junosoftware/
-- Mi instagram personal 🠪 https://www.instagram.com/valenciajuann/
 - 💻 Me gusta la tecnología
 - 🏝️ Me gustaría algún día disfrutar de la playa.
 - ♥️ Escribo código por pasión y amor.
