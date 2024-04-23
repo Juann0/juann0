@@ -3,9 +3,9 @@
 #### Me puedes seguir aquí ⬇, soy nuevo en redes 
 
 - 💻 Me gusta la tecnología
-- 🏝️ Me gustaría algún día disfrutar de la playa.
+- 🏝️ Me gustaría algún día trabajar en la playa.
 - ♥️ Escribo código por pasión y amor.
-- 👌Me gustaría ser docente y enseñar todo lo que sé.
+- 👌Me gusta enseñar.
 
 > Sé disciplinado y triunfarás.
 
